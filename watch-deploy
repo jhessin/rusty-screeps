@@ -1,0 +1,5 @@
+#!/usr/bin/env zsh
+
+# cargo watch -x test -x clippy -s clear
+cargo watch -w ./src -s ./deploy
+# cargo clippy

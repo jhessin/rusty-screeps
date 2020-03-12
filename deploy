@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+
+# cargo watch -x "screeps deploy"
+cargo screeps deploy
